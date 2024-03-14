@@ -644,10 +644,10 @@ window.addEventListener("load", function(){
                 enabled: false
             },
             series: [{
-                data: [400, 430, 448, 470, 540, 580, 690, 1100, 1200, 1380]
+                data: [1300, 730, 448, 1470, 540, 580, 690, 1100, 1200]
             }],
             xaxis: {
-                categories: ['South Korea', 'Canada', 'United Kingdom', 'Netherlands', 'Italy', 'France', 'Japan', 'United States', 'China', 'Germany'],
+                categories: ['London, UK', 'Manchester, UK', 'Birmingham, UK', 'Dhaka, Bangladesh', 'Sylhet, Bangladesh', 'Kolkata, India', 'Lagos, Nigeria', 'Lahore, Pakistan', 'Kathmandu, Nepal'],
             }
         }
 
