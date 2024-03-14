@@ -256,7 +256,7 @@ window.addEventListener("load", function(){
                 data: [400, 430, 448, 470, 540, 580, 690, 1100, 1200, 1380]
             }],
             xaxis: {
-                categories: ['South Korea', 'Canada', 'United Kingdom', 'Netherlands', 'Italy', 'France', 'Japan', 'United States', 'China', 'Germany'],
+                categories: ['London, UK', 'Dhaka, Bangladesh', 'Birmingham, UK', 'Manchester, UK', 'Sylhet, Bangladesh', 'Kolkata, India', 'Lagos, Nigeria', 'Lahore, Pakistan', 'Kathmandu, Nepal', 'Sylhet, Bangladesh'],
             }
         }
 
