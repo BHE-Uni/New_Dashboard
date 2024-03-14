@@ -928,7 +928,7 @@
                                                 <div id="hybrid_followers"></div>
                                             </div> --}}
                                             <div class="w-chart-render-one">
-                                                <div id="total-users"></div>
+                                                <div id="paid-visits"></div>
                                             </div>
                                         </div>
                                     </div>
