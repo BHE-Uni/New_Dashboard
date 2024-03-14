@@ -1050,7 +1050,7 @@
                                 </div>
                             </div>
                             <div class="table-responsive">
-                                <table class="table table-bordered text-center">
+                                <table class="table text-center">
                                     <thead>
                                         <tr>
                                             <th scope="col">Name</th>
